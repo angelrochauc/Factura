@@ -1,0 +1,33 @@
+
+.carrito {
+    padding: 20px 0 0 0;
+}
+
+
+
+.subtotales div {
+    padding: 2px 0 5px 5px;
+}
+
+
+
+.botones {
+    text-align: center;
+    padding: 3% 0 0 0;
+}
+
+
+.totales div {
+    padding: 2px 0 5px 5px;
+}
+
+
+.subtitulo {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+header {
+  
+    border-bottom: 2pt solid #009688;
+}

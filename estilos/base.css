@@ -1,0 +1,32 @@
+
+
+.totales input {
+    width: 70%;
+}
+.subtotales input {
+    width: 70%;
+}
+
+
+
+.titulo {
+
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+}
+
+
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    max-width: 1150px;
+    border: 1px solid rgb(194, 237, 239);
+    padding: 2rem
+}
+
+
+html {
+    font-size: 10px;
+    background: #ddd;
+}
+#contenido {  margin: 0 auto; }

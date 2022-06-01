@@ -1,0 +1,22 @@
+
+.l-encabezado {
+  
+    text-align: center;
+    border: #ced4da solid 1px;
+}
+
+
+
+.l-pie {
+    margin: 0 -100px 0 0;
+    text-align: center;
+}
+.l-cuerpo {
+    margin: 5 -100px;
+}
+
+.l-fila {
+    border: #ced4da 1px solid;
+    padding: 1px;
+}
+

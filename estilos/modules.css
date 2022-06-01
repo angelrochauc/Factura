@@ -1,0 +1,16 @@
+.articulo img {
+    width: 100px;
+    /* height: 100px; */
+}
+
+
+
+.articulos {
+    text-align: center;
+}
+
+.articulo {
+    margin: 3px;
+}
+
+
